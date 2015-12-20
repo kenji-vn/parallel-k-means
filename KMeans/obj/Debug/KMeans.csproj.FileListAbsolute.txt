@@ -1,0 +1,7 @@
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\bin\Debug\KMeans.dll
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\bin\Debug\KMeans.pdb
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\bin\Debug\KMeans.dll.CodeAnalysisLog.xml
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\bin\Debug\KMeans.dll.lastcodeanalysissucceeded
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\obj\Debug\KMeans.csprojResolveAssemblyReference.cache
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\obj\Debug\KMeans.dll
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeans\obj\Debug\KMeans.pdb

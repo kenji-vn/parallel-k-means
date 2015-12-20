@@ -1,0 +1,9 @@
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\bin\Debug\KMeansExample.exe
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\bin\Debug\KMeansExample.pdb
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\bin\Debug\KMeans.dll
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\bin\Debug\KMeans.pdb
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\obj\x86\Debug\KMeansExample.csprojResolveAssemblyReference.cache
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\obj\x86\Debug\KMeansExample.Form1.resources
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\obj\x86\Debug\KMeansExample.csproj.GenerateResource.Cache
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\obj\x86\Debug\KMeansExample.exe
+D:\PData\Downloads\parallel-kmeans\ParallelKMeans\KMeansExample\obj\x86\Debug\KMeansExample.pdb
